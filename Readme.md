@@ -6,5 +6,6 @@
 
 * Installer Rstudio : https://posit.co/download/rstudio-desktop/
 
-
+* Répo du projet
+  https://github.com/nevermind78/Install_env_R
 
