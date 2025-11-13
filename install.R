@@ -1,5 +1,5 @@
 # Lire le CSV
-package_info <- read.csv("packages_versions.csv")
+package_info <- read.csv("packages_list.txt")
 
 # Installer seulement les noms de packages (dernières versions)
 install.packages(package_info$Package)
